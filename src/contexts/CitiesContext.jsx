@@ -6,7 +6,9 @@ import {
   useReducer,
 } from 'react';
 
-const BASE_URL = 'http://localhost:8000';
+// const BASE_URL = 'http://localhost:8000';
+const BASE_URL =
+  'https://raw.githubusercontent.com/sarahsherien/world-wise/main/data/cities.json';
 
 const CitiesContext = createContext();
 
