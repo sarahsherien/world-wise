@@ -10,4 +10,5 @@ export default defineConfig({
       overlay: false,
     },
   },
+  base: '/[worldwise]/',
 });
