@@ -1,2 +1,2 @@
 # React + Vite
-## Credits: Jonas Schmedtman ReactJS instructor
+Instructed by Jonas Schmedtman Reactjs course on Udemy.
